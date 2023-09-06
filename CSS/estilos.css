@@ -1,0 +1,43 @@
+#fila1{
+    height: 100%;
+
+}
+
+#texto{
+    background-color: lightgray;
+}
+
+#texto2{
+    font-size: small;
+}
+
+#texto3{
+    margin-top: 20px;
+    font-size: small;
+    color: #FFFFFF; 
+    display:flex ;
+    justify-content: center;
+    align-items: center;  
+}
+
+#columna2{
+   height: auto;
+}
+
+#columna3{
+    height: auto;
+}
+
+#columna4{
+    height: 80px;
+    background-color: #f25252;
+}
+
+#columna5{
+    height: 130px;
+    background-color: #f25252;
+}
+
+#icon{
+    height: 30px;
+}
